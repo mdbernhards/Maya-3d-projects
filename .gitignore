@@ -1,0 +1,15 @@
+# Large Painter projects, including autosaves.
+# Preserve these locally and back them up separately.
+/SubstancePainter/*.spp
+
+# Submission archives
+/ForSubmission/*.zip
+
+# Generated Maya swatches and Painter lock files
+.mayaSwatches/
+*.painter_lock
+
+# Operating-system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
