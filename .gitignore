@@ -1,9 +1,9 @@
 # Large Painter projects, including autosaves.
 # Preserve these locally and back them up separately.
-/SubstancePainter/*.spp
+*.spp
 
 # Submission archives
-/ForSubmission/*.zip
+/MessyRoom/FinishedFiles/*.zip
 
 # Generated Maya swatches and Painter lock files
 .mayaSwatches/
